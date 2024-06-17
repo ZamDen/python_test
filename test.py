@@ -1,3 +1,5 @@
 print('Hello')
 x = 5
-print(x)
+y = 20
+c = x**y
+print(c)
